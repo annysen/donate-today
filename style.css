@@ -8,6 +8,10 @@ body{
 .donate-text{
     text-align: center;
 }
+.donate-text h1{
+    font-size: 35px;
+    font-weight: bold;
+}
 .donate-text p{
     color: gray;
 }
@@ -39,5 +43,26 @@ body{
     color: antiquewhite;
     font-size: 20px;
     border:10px solid tomato;
+    border-radius: 5px;
+}
+.donate-plan-text{
+    text-align: center;
+}
+.donate-plan-details{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+.plan{
+    border: 5px solid rgb(241, 215, 210);
+    background-color: rgb(241, 215, 210);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#food-donate-plan{
+    border: 5px solid rgb(151, 223, 247);
+    background-color: rgb(151, 223, 247);
     border-radius: 5px;
 }
