@@ -1,0 +1,23 @@
+body{
+    font-family: 'Mingzat', sans-serif;
+}
+.header{
+    background-image:url(images/donation13.jpg);
+    width: 100%;
+}
+.donate-text{
+    text-align: center;
+}
+.donate-text p{
+    color: gray;
+}
+.donate-taka h1{
+    display:flex;
+    width: 10%;
+    padding-left: 30px;
+    font-size: 25px;
+    color: rgb(102, 91, 91);
+    background-color: rgb(212, 208, 208);
+    border: 5px solid  rgb(212, 208, 208);
+    border-radius: 5px;
+}
