@@ -17,7 +17,27 @@ body{
     padding-left: 30px;
     font-size: 25px;
     color: rgb(102, 91, 91);
-    background-color: rgb(212, 208, 208);
-    border: 5px solid  rgb(212, 208, 208);
+    background-color: rgb(241, 240, 240);
+    border: 2px solid rgb(241, 240, 240);
+    border-radius: 5px;
+}
+#donate{
+    background-color: rgb(250, 214, 207);
+    border: 2px solid  tomato;
+    border-radius: 5px;
+    color: tomato;
+}
+.other-amount{
+    text-align: center;
+    color: gray;
+    border-bottom: 2px solid gray;  
+}
+.donate-now-button{
+    margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 20px;
+    border:10px solid tomato;
     border-radius: 5px;
 }
